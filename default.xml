@@ -1080,4 +1080,6 @@
   </project>
   <project path="vendor/adevtool" name="adevtool" remote="grapheneos"/>
   <project path="vendor/state" name="vendor_state" remote="grapheneos" clone-depth="1"/>
+
+  <include name="envs.xml"/>
 </manifest>
